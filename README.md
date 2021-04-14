@@ -19,4 +19,42 @@ I think it is the good way to structurize all the information i have absorbed du
    
    
 ## Python section
-1. 
+1. 'Programming on Python' is very easy introductory couse which only gives the basis. 
+    https://stepik.org/course/67/syllabus
+    At least it makes it comfortable for you to read the Python code and understand how some funtioncs work
+
+## Statistics
+1. Of course, Statistics from Anatoliy Karpoc
+   https://stepik.org/course/76/syllabus - Part I
+   https://stepik.org/course/524/info - Part II
+   There are three chapter in there but since Part II the R is involved. You are free to skipp all the  practise parts and just absorb the theory. The teaching is good, really, but there are some people who find these courses bad: https://vk.com/@dmitry_penzar-stats-and-pulverization. Simply, author says that there are mistakes in fundamental concepts such as p-value or requrements for cental limit theorem
+   
+2. 'Статистика и котики'. Very short book about almost all concepts you need to Understand as data analyst or data scientist in extremely simple words. No formulas, no proofs, just naked idea. May be good, can be finished in 1 evening
+
+3. 'Наглядная статистка' by Lagutin
+   Tried to start several times but was overwhelmed. From the very first line it throws you directly to the statistics. No foreplays) 
+   Comments from people: 'Это очень сложная книга и будет тяжела для новичков. Те кто смогу дойти до конца, пользу извлекут, но книга сложна'
+   
+Other resourses that i was recommended by other people:
+
+Introduction to probabilitiy: Joseph_K_Blitzstein (Chapman and Hall text)
+Mathematical Statistics and Data Analysis: John A.Rice 
+Introduction to R (https://www.coursera.org/specializations/statistics) - Course on Coursera, in R
+
+4. StatQuest - youtube channel that explains statistics and not only it (in English) 
+   super usefull
+
+## 'Data analytics and Machine learning' Specialization from MIT and YANDEC on COURSERA
+   https://www.coursera.org/specializations/machine-learning-data-analysis#courses
+   1. Math and Python for Data analysis
+   2. Supervised learning
+   3. Looking for structure in Data
+   4. Making conclusions on Data
+   5. Application of data analysis
+   6. Capstone
+   Overall the couse i good. Sometimes the theory is ovewhelming you and you feel like giving it up. The specializations mostly aimed on data analytics but it also covers some neural networks and computer vision stuff. Althought the 1 and 4 courses cover python and statistics concepts, is it better to take some additional course on Python and statistics as well
+
+### There are 4 projects available there, I chose 'Clients churn rate prediction'
+
+
+Now i need to study Combinatics and review some basic Probability theory to solve interview problems
