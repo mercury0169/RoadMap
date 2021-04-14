@@ -16,12 +16,22 @@ I think it is the good way to structurize all the information i have absorbed du
    (https://mode.com/sql-tutorial/introduction-to-sql/)
    It is free text tutorial of SQl by MODE. The course is devided by 4 sections: basic, intermediate, advaced and analytics training.
    Mode offer you their own platform (like text editor). It already has all the databases you need, so you can freely practise exersices there, run your queries and check results. Also you can check the solution as well.
-   
+
+#To_try:
+   sql-ex.ru (with preinstalled Postgre)
+   https://pgexercises.com/ (Postgre exercises)
+   https://sqlzoo.net/ (sql exercises)
    
 ## Python section
 1. 'Programming on Python' is very easy introductory couse which only gives the basis. 
     https://stepik.org/course/67/syllabus
     At least it makes it comfortable for you to read the Python code and understand how some funtioncs work
+
+#To_try:
+   https://pythontutor.ru/ - Course on Python
+   https://www.coursera.org/specializations/python - Python for everybody
+   https://www.youtube.com/channel/UCQfwKTJdCmiA6cXAY0PNRJw - MIT video lectures by Timofei Hiryanov
+
 
 ## Statistics
 1. Of course, Statistics from Anatoliy Karpoc
