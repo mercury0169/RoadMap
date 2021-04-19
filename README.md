@@ -16,6 +16,11 @@ I think it is the good way to structurize all the information i have absorbed du
    (https://mode.com/sql-tutorial/introduction-to-sql/)
    It is free text tutorial of SQl by MODE. The course is devided by 4 sections: basic, intermediate, advaced and analytics training.
    Mode offer you their own platform (like text editor). It already has all the databases you need, so you can freely practise exersices there, run your queries and check results. Also you can check the solution as well.
+   
+   notes: Venn diagramm isn't a good way to explain SQL joins. A more apposite visual representation might be this:
+   https://stackoverflow.com/questions/13997365/sql-joins-as-venn-diagram
+   
+   
 
 #To_try:
    sql-ex.ru (with preinstalled Postgre)
