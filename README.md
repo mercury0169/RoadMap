@@ -20,6 +20,9 @@ I think it is the good way to structurize all the information i have absorbed du
    notes: Venn diagramm isn't a good way to explain SQL joins. A more apposite visual representation might be this:
    https://stackoverflow.com/questions/13997365/sql-joins-as-venn-diagram
    
+         Another one with Venn diagramm and exempls:
+         https://joins.spathon.com/
+   
    
 
 #To_try:
