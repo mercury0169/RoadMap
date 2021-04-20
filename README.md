@@ -16,6 +16,13 @@ I think it is the good way to structurize all the information i have absorbed du
    (https://mode.com/sql-tutorial/introduction-to-sql/)
    It is free text tutorial of SQl by MODE. The course is devided by 4 sections: basic, intermediate, advaced and analytics training.
    Mode offer you their own platform (like text editor). It already has all the databases you need, so you can freely practise exersices there, run your queries and check results. Also you can check the solution as well.
+   Finished basic, intermediate and half of advanced (till 'Using SQL String Functions to Clean Data'). idk, kinda boring...)
+   
+3. New course from University of Michigan on Psql
+   https://www.coursera.org/specializations/postgresql-for-everybody?utm_medium=institutions&utm_source=umich&utm_content=video-ad&utm_campaign=youtube-ad-postgresql-for-everybody-keywords&gclid=Cj0KCQjw9_mDBhCGARIsAN3PaFN8W_pFJZlev0TptFh6KlKvloMZ8q4_lDOm5UVhVYPxojEnnC5Alu8aAuTNEALw_wcB#about
+   
+   
+   
    
    notes: Venn diagramm isn't a good way to explain SQL joins. A more apposite visual representation might be this:
             https://stackoverflow.com/questions/13997365/sql-joins-as-venn-diagram
